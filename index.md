@@ -40,4 +40,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
- !image[text]({{ "/Images/IR1.png" | absolute_url }})
+
+
+
+!An IR of Jan 2018 calibrating a Genelec speaker with Neumann KM184.[alt text](https://github.com/gonzalo-villegas-curulla/gonzalo-villegas-curulla.github.io/tree/master/Images/IR1.png "Footnote Title Text 1")
+
+Reference-style: 
+![alt text][Photo2]
+
+[Photo2]: https://github.com/gonzalo-villegas-curulla/gonzalo-villegas-curulla.github.io/tree/maser/Images/IR2.png "Photo Title Text 2"
+
+
+
